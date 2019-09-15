@@ -1,0 +1,2 @@
+# mongoschema
+Mongo schema generator
